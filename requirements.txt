@@ -6,4 +6,3 @@ newspaper3k
 requests
 lxml[html_clean]
 streamlit-option-menu
-
